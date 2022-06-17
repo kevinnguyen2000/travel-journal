@@ -1,0 +1,18 @@
+.text-container {
+    font-family: 'Poppins', sans-serif;
+}
+
+.flex-container {
+    display: flex;
+}
+
+.flex-child {
+    flex: 1;
+}  
+
+.flex-child:first-child {
+    margin-right: -190px;
+    margin-left: 40px;
+} 
+
+.same-line { display: inline-block; }
